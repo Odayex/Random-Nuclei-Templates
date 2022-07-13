@@ -1,2 +1,1 @@
-# Random-Nuclei-Templates
-Random  private  Nuclei Templates 
+# Private-Nuclei-Templates-Collection
